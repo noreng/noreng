@@ -1,7 +1,9 @@
 ### Hello 👋
-I am a Full stack javascript developer working form Budapest, Hungary
+I am a Full stack javascript developer working from Budapest, Hungary
 
 [![LinkedIn logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norbertpozsonyi/)
+
+[truzme.com](https://www.truzme.com)
 
 Mostly experienced in writing complex, **high performance javascript web applications** :rocket:, where every bit and millisecond counts, using technologies like
 - Multithreading (Workers, child processes)
@@ -10,6 +12,12 @@ Mostly experienced in writing complex, **high performance javascript web applica
 - Raw binary data (eg: typed arrays)
 - Bitwise operations
 - Generators
+
+## :heart: Pet project ([truzme.com](https://www.truzme.com))
+A truss calculator utilizing finite element calculations in the browser, including mobiles and tablets. Able to calculate thousands of elements without any BE requests, instantly. I use this tool to explain structural engineering basics to non-engineer friends and my sons, and as a sandbox for testing, learning, and experimenting with new technologies.
+- Started as Vue project, it is now React/Next.js + Typescript
+- State management: Mobx, mobx-react, mobx-state-tree
+- I wrote the FEM calculator from scratch, the modules are separated in monorepos
 
 ## 👀 Interested in
 - Web application development with complex graphical elements (svg/canvas, tables in 2D-3D) :art: :chart_with_upwards_trend:
@@ -21,23 +29,24 @@ Mostly experienced in writing complex, **high performance javascript web applica
 - Javascript (Typescript)
 - Node.js
 - React
-- AngularJS
+- Next.js
 - PostgreSQL
-- Redis
 
 ## :hammer: Tools
 - Webpack
 - Prettier
 - Styled components
 
-#### Some libraries/frameworks to mention
-- Sequelize ORM
-- React-query
+#### Some libraries/frameworks/APIs to mention
 - Mobx, mobx-react, mobx-state-tree (side project)
-- Next.js (work + side project)
+- Map/GeoJSON: Openlayers, turf, Google Maps API
 - styled-components
 - Material UI (mui 5)
 - D3.js
+- Redis
+- Sequelize ORM
+- React-query
+- Angular.js
 
 ## Miscellaneous
 - Reactive programming++
